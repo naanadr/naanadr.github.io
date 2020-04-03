@@ -35,6 +35,9 @@ paginate_path: /page:num/
 disqus: yes
 disqus-shortname: naanadr-github-io
 
+# Tracker
+analytics: UA-162706311-1
+
 # Include list
 include: [assets/docs/maria_fernanda_souza_andrade_CV.pdf]
 
