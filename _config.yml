@@ -33,7 +33,7 @@ paginate_path: /page:num/
 
 # Comments
 disqus: yes
-disqus-shortname: naanadr
+disqus-shortname: naanadr-github-io
 
 # Include list
 include: [assets/docs/maria_fernanda_souza_andrade_CV.pdf]
