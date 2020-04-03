@@ -3,7 +3,7 @@ email: fsandrade25@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Maria Fernanda Souza Andrade | Python Lover & PyLadie & Data Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "naanadr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://naanadr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: naanadr
 github_username:  naanadr
 dev_to_username: naanadr
