@@ -1,50 +1,28 @@
 <section class="latest-blog-section p-3 p-lg-5">
   <div class="container">
-    <h2 class="section-title font-weight-bold mb-5">Latest Blog Posts</h2>
+    <h2 class="section-title font-weight-bold mb-5">Últimas postagens</h2>
     <div class="row">
+      {% for post in site.posts limit:3 %}
       <div class="col-md-4 mb-5">
         <div class="card blog-post-card">
-          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}/assets/images/blog/blog-post-thumb-card-1.jpg" alt="image">
+          {% if post.image %}
+          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
+          {% endif %}
           <div class="card-body">
-            <h5 class="card-title"><a class="theme-link" href="{{site.url}}{{site.baseurl}}/blog-post/">Top 3 JavaScript Frameworks</a></h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-            <p class="mb-0"><a class="more-link" href="{{site.url}}{{site.baseurl}}/blog-post/">Read more &rarr;</a></p>
+            <h5 class="card-title"><a class="theme-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></h5>
+            <p class="card-text">{{ post.description }}</p>
+            <p class="mb-0"><a class="more-link" href="{{ post.url | prepend: site.url }}">Leia mais &rarr;</a></p>
 
           </div>
           <div class="card-footer">
-            <small class="text-muted">Published 2 days ago</small>
+            <small class="text-muted">{{ post.date | date: "%b %-d, %Y" }}</small>
           </div>
         </div><!--//card-->
       </div><!--//col-->
-      <div class="col-md-4 mb-5">
-        <div class="card blog-post-card">
-          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}/assets/images/blog/blog-post-thumb-card-2.jpg" alt="image">
-          <div class="card-body">
-            <h5 class="card-title"><a class="theme-link" href="{{site.url}}{{site.baseurl}}/blog-post/">About Remote Working</a></h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-            <p class="mb-0"><a class="more-link" href="{{site.url}}{{site.baseurl}}/blog-post/">Read more &rarr;</a></p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">Published a week ago</small>
+      {% endfor %}
 
-          </div>
-        </div><!--//card-->
-      </div><!--//col-->
-      <div class="col-md-4 mb-5">
-        <div class="card blog-post-card">
-          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}/assets/images/blog/blog-post-thumb-card-3.jpg" alt="image">
-          <div class="card-body">
-            <h5 class="card-title"><a class="theme-link" href="{{site.url}}{{site.baseurl}}/blog-post/">A Guide to Becoming a Full-Stack Developer</a></h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient...</p>
-            <p class="mb-0"><a class="more-link" href="{{site.url}}{{site.baseurl}}/blog-post/">Read more &rarr;</a></p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">Published 3 weeks ago</small>
-          </div>
-        </div><!--//card-->
-      </div><!--//col-->
     </div><!--//row-->
-    <div class="text-center py-3"><a href="blog.html" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>View Blog</a></div>
+    <div class="text-center py-3"><a href="{{site.url}}{{site.baseurl}}/postslist/" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right mr-2"></i>Veja o meu blog</a></div>
   </div><!--//container-->
 
 </section><!--//latest-blog-section-->
