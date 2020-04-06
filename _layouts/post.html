@@ -2,48 +2,44 @@
 layout: default
 
 ---
-<div class="row">
-<div class="col-md-8">
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-          <header class="post-header">
-            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-            <p class="post-meta">
-              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-              {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
-              {% if site.reading_time %} • <i class="fa fa-clock-o"></i> {% include read-time.html %}{% endif %}
-              </p>
+<article class="blog-post px-3 py-5 p-md-5">
+  <div class="container">
+    <header class="blog-post-header">
+      <h2 class="title mb-2">{{ page.title }}</h2>
+      <div class="meta mb-3">
 
-          </header>
+        <span class="date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
+        <span class="time">{% include read-time.html %}</span>
+        <!-- <span class="comment"><a href="#">4 comments</a></span> -->
+      </div>
+    </header>
 
-          <div class="post-content" itemprop="articleBody">
-            {{ content }}
-          </div>
+    <div class="blog-post-body">
+      {% if post.image %}
+        <figure class="blog-banner">
+          <a><img class="img-fluid" src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="{{post.title}}"></a>
+        </figure>
+      {% endif %}
 
-    </article>
-    <div class="row">
-        {% if site.disqus-shortname %}
-         {% include disqus.html %}
-        {% endif %}
+      {{ content }}
+
     </div>
 
+    <nav class="blog-nav nav nav-justified my-5">
+      {% if page.previous.url %}
+        <a class="nav-link-prev nav-item nav-link rounded-left" href="{{page.previous.url | prepend: site.url}}">{{page.previous.title}}<i class="arrow-prev fas fa-long-arrow-alt-left"></i></a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="nav-link-next nav-item nav-link rounded-right" href="{{page.next.url | prepend: site.url}}">{{page.next.title}}<i class="arrow-next fas fa-long-arrow-alt-right"></i></a>
+      {% endif %}
+    </nav>
 
-    <div class="row">
-            <ul class="pager">
-             {% if page.next.url %}
-                    <li><a class="next" href="{{page.next.url | prepend: site.url}}">&laquo; {{page.next.title}}</a></li>
-              {% endif %}
-              {% if page.previous.url %}
-                <li><a class="previous" href="{{page.previous.url | prepend: site.url}}">{{page.previous.title}} &raquo;</a></li>
-              {% endif %}
-            </ul>
+    <div class="blog-comments-section">
+      {% if site.disqus-shortname %}
+        {% include disqus.html %}
+      {% endif %}
     </div>
-</div>
 
-
-{% include sidebar.html %}
-
-</div>
-
-
-{% include fb-script.html %}
+  </div><!--//container-->
+</article>
