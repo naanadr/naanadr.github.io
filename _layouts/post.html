@@ -11,14 +11,17 @@ layout: default
 
         <span class="date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
         <span class="time">{% include read-time.html %}</span>
-        <!-- <span class="comment"><a href="#">4 comments</a></span> -->
       </div>
     </header>
 
     <div class="blog-post-body">
-      {% if post.image %}
+      {% if page.image %}
         <figure class="blog-banner">
-          <a><img class="img-fluid" src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="{{post.title}}"></a>
+          <a><img class="img-fluid" src="{{site.url}}{{site.baseurl}}{{page.image}}" alt="{{page.title}}"></a>
+        </figure>
+      {% else %}
+        <figure class="blog-banner">
+          <a><img class="img-fluid" src="{{site.url}}{{site.baseurl}}/assets/images/blog/blog-post-thumb-1.jpg" alt="{{post.title}}"></a>
         </figure>
       {% endif %}
 
