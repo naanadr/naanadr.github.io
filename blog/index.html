@@ -11,7 +11,7 @@ title: Posts List
           {% if post.image %}
             <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="image">
           {% else %}
-            <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}/assets/images/blog/blog-post-thumb-1.jpg" alt="image">
+            <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}/assets/images/blog/template-blog-post.png" alt="image">
           {% endif %}
           <div class="media-body">
             <h3 class="title mb-1"><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></h3>
