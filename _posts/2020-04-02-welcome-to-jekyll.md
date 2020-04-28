@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-04-02 17:44:03 -0300
+title: Welcome to Jekyll!
+date: 2020-04-02T20:44:03.000+00:00
 tags:
 - jekyll update
 - tutorial
-description: "Testando o jekyll"
+description: Testando o jekyll
+type: blog
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

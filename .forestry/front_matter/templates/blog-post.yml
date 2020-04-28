@@ -58,3 +58,5 @@ fields:
       file: 
       path: 
   label: Layout
+pages:
+- _posts/2020-04-02-welcome-to-jekyll.md
