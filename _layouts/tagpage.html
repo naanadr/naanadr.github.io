@@ -1,20 +1,26 @@
 ---
 layout: default
 ---
-<article class="about-section py-5">
-  <div class="container">
-    <div class="post">
-      <h1>Tag: {{ page.tag }}</h1>
-      <ul>
-        {% for post in site.tags[page.tag] %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-            {{ post.description }}
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-    <hr>
+{% if page.tag == "tutorial" or page.type == "tutorial" %}
+  {% include tutorials.html %}
+{% elsif page.tag == "talk" or page.type == "talk" %}
+  {% include talks.html %}
+{% else %}
+  <article class="about-section py-5">
+    <div class="container">
+      <div class="post">
+        <h1>Tag: {{ page.tag }}</h1>
+        <ul>
+          {% for post in site.tags[page.tag] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a> | {{ post.date | date_to_string }} <br>
+              {{ post.description }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <hr>
 
-    {% include archive.html %}
-  </div>
-</article>
+      {% include archive.html %}
+    </div>
+  </article>
+{% endif %}
