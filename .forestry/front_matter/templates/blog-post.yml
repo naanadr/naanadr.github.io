@@ -45,3 +45,16 @@ fields:
       file: 
       path: 
   label: Type
+- name: layout
+  type: select
+  default: post
+  config:
+    required: true
+    options:
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Layout
