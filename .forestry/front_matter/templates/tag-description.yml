@@ -20,4 +20,4 @@ fields:
   config:
     required: true
 pages:
-- tag/tag-1.md
+- tag/1.md
