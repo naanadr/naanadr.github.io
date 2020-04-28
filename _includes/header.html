@@ -1,5 +1,5 @@
 <header class="header text-center">
-  <h1 class="blog-name pt-lg-4 mb-0"><a href="{{site.url}}{{site.baseurl}}">Fernanda Souza</a></h1>
+  <h1 class="blog-name pt-lg-4 mb-0"><a href="{{site.url}}{{site.baseurl}}">Maria Fernanda</a></h1>
 
   <nav class="navbar navbar-expand-lg navbar-dark" >
 
@@ -11,16 +11,21 @@
         <div class="profile-section pt-3 pt-lg-0">
             <img class="profile-image mb-3 rounded-circle mx-auto" src="{{site.url}}{{site.baseurl}}/assets/images/profile.png" alt="image" >
 
-            <div class="bio mb-3">Oi! Me chamo Maria Fernanda, sou engenheira de dados Jr. Seja bem vind@ ao meu site!<br><a href="{{site.url}}{{site.baseurl}}/about/">Para saber mais sobre mim.</a></br></div><!--//bio-->
+            <div class="bio mb-3">Oi! Me chamo Maria Fernanda, sou uma deva Python intrometida na área de visão computacional e dados!<br><a href="{{site.url}}{{site.baseurl}}/about/">Para saber mais sobre mim.</a></br></div><!--//bio-->
             <ul class="social-list list-inline py-3 mx-auto">
                 <li class="list-inline-item"><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="fab fa-twitter fa-fw"></i></a></li>
-                <li class="list-inline-item"><a href="https://dev.to/{{ site.dev_to_username }}" target="_blank"><i class="fab fa-dev"></i></a></li>
+                <li class="list-inline-item"><a href="https://t.me/{{ site.telegram_username }}" target="_blank"><i class="fab fa-telegram-plane"></i></a></li>
                 <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
                 <li class="list-inline-item"><a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="fab fa-github-alt fa-fw"></i></a></li>
-                <li class="list-inline-item"><a href="https://t.me/{{ site.telegram_username }}" target="_blank"><i class="fab fa-telegram-plane"></i></a></li>
+                <li class="list-inline-item"><a href="https://dev.to/{{ site.dev_to_username }}" target="_blank"><i class="fab fa-dev"></i></a></li>
             </ul><!--//social-list-->
           <hr>
         </div><!--//profile-section-->
+
+        <div class="form-group has-search" id="search-demo-container">
+          <input type="text" id="search-input" class="form-control" placeholder="Busque...">
+          <ul class="navbar-nav flex-column text-left" id="results-container"></ul>
+        </div>
 
         <ul class="navbar-nav flex-column text-left">
           <li class="nav-item">
