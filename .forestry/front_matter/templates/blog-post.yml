@@ -1,0 +1,62 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+  default: now
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: type
+  type: select
+  default: blog
+  config:
+    required: true
+    options:
+    - blog
+    - tutorial
+    - talk
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+- name: layout
+  type: select
+  default: post
+  config:
+    required: true
+    options:
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Layout
+pages:
+- _posts/2020-04-02-welcome-to-jekyll.md
