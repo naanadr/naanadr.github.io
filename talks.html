@@ -3,18 +3,5 @@ layout: default
 permalink: /talks/
 title: Talks
 ---
-<article class="about-section py-5">
-  <div class="container">
-    <h2 class="title mb-3">Palestras</h2>
-    <figure>
-      <img class="img-fluid" src="{{site.url}}{{site.baseurl}}/assets/images/blog/banner-palestras.png" alt="palestras">
-    </figure>
 
-    {% for post in site.posts %}
-      {% if post.type == "talk" %}
-        <a href="{{ post.url | prepend: site.url }}"><h5 class="mt-5">{{ post.title }} | {{ post.date | date: "%b %-d, %Y"}}</h5></a>
-        <p>{{ post.description }}</p>
-      {% endif %}
-    {% endfor %}
-  </div>
-</article><!--//about-section-->
+{% include talks.html %}
