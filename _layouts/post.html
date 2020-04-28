@@ -8,14 +8,14 @@ layout: default
     <header class="blog-post-header">
       <h2 class="title mb-2">{{ page.title }}</h2>
       <div class="meta mb-3">
+        <span class="date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
+        <span class="time">{% include read-time.html %}</span>
         <span>
           {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
           {% endfor %}
         </span>
-        <span class="date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>
-        <span class="time">{% include read-time.html %}</span>
       </div>
     </header>
 
