@@ -7,11 +7,13 @@ fields:
   label: layout
   config:
     required: true
+  default: tagpage
 - type: text
   name: title
   label: title
   config:
     required: true
+  default: 'Tag: xxxx'
 - type: text
   name: tag
   label: tag
