@@ -19,5 +19,3 @@ fields:
   label: tag
   config:
     required: true
-pages:
-- tag/palestra.md
