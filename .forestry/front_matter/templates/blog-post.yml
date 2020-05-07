@@ -58,3 +58,5 @@ fields:
       file: 
       path: 
   label: Layout
+pages:
+- _posts/zuando-detecção-de-rosto.md
