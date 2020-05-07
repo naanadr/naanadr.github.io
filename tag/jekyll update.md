@@ -1,5 +1,5 @@
 ---
-layout: jekyll update
+layout: tagpage
 title: 'Tag: jekyll update'
 tag: jekyll updatea
 
