@@ -6,7 +6,7 @@
     </figure>
 
     {% for post in site.posts %}
-      {% if "tutorial" in post.tags %}
+      {% if post.tags contains "tutorial" %}
         <a href="{{ post.url | prepend: site.url }}"><h5 class="mt-5">{{ post.title }} | {{ post.date | date: "%b %-d, %Y"}}</h5></a>
         <p>{{ post.description }}</p>
       {% endif %}
