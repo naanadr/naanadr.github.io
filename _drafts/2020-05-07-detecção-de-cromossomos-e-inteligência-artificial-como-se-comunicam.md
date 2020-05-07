@@ -15,4 +15,5 @@ image: "/images/mufasa.jpg"
 ---
 Testando...
 
-<iframe center src="https://slides.com/fernandasouza/deck/embed?style=light" width="776" height="620" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+apresentação no slides:
+<iframe center src="https://slides.com/fernandasouza/deck/embed?style=light" width="776" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
