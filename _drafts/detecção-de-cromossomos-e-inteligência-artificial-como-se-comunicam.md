@@ -1,0 +1,18 @@
+---
+date: 2020-05-07 02:02:15 +0000
+tags:
+- inteligencia-artificial
+- iniciacao-cientifica
+- pesquisa
+- cromossomos
+- processamento-imagem
+type: blog
+layout: post
+title: Detecção de Cromossomos e Inteligência Artificial, como se comunicam?
+description: Parte 1 de 2 sobre uma "solução" que atingi apara o problema de contagem
+  de cromossomos.
+
+---
+Testando...
+
+https://speakerdeck.com/naanadr/transfer-learning-para-deteccao-de-cromossomos
