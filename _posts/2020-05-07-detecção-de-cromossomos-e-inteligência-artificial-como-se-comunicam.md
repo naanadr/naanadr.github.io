@@ -15,4 +15,4 @@ image: "/images/mufasa.jpg"
 ---
 Testando...
 
-[https://speakerdeck.com/naanadr/transfer-learning-para-deteccao-de-cromossomos](https://speakerdeck.com/naanadr/transfer-learning-para-deteccao-de-cromossomos "https://speakerdeck.com/naanadr/transfer-learning-para-deteccao-de-cromossomos")
+<iframe center src="https://slides.com/fernandasouza/deck/embed?style=light" width="776" height="620" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
