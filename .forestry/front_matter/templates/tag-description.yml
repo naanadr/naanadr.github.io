@@ -20,4 +20,4 @@ fields:
   config:
     required: true
 pages:
-- tag/tag-palestra.md
+- tag/palestra.md
