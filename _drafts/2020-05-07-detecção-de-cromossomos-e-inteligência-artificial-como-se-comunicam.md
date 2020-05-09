@@ -1,5 +1,5 @@
 ---
-date: 2020-05-07T02:02:15.000+00:00
+date: 2020-05-10 02:02:15 +0000
 tags:
 - inteligencia-artificial
 - pesquisa
@@ -8,8 +8,8 @@ tags:
 type: blog
 layout: post
 title: Detecção de Cromossomos e Inteligência Artificial, como se comunicam?
-description: Parte 1 de 2 sobre uma "solução" que atingi apara o problema de contagem
-  de cromossomos.
+description: Parte 1 de 2 sobre o problema de contagem e detecção de cromossomos e
+  minha jornada na área.
 image: "/images/post-cromossomos.png"
 preview: "/images/preview-cromossomos.png"
 
