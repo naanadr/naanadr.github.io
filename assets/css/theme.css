@@ -10205,3 +10205,10 @@ body {
 .card-text {
   font-size: 0.875rem
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
