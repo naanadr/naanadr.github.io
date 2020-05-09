@@ -8,7 +8,7 @@ title: Posts List
     {% for post in paginator.posts %}
       <div class="item mb-5">
         <div class="media">
-          {% if post.image %}
+          {% if post.preview %}
             <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="image">
           {% else %}
             <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}/assets/images/blog/template-blog-post.png" alt="image">
