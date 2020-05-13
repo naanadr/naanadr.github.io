@@ -2,7 +2,7 @@ title: Maria Fernanda | Python Lover & PyLadie & Data Engineer
 email: fsandrade25@gmail.com
 description: Maria Fernanda Souza Andrade | Python Lover & PyLadie & Data Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://naanadr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mfsouza.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: naanadr
 github_username:  naanadr
 dev_to_username: naanadr
@@ -21,7 +21,7 @@ built-by: naanadr
 
 copyright:
    name: naanadr
-   link: 'https://naanadr.github.io'
+   link: 'https://mfsouza.com'
 
 # Build settings
 markdown: kramdown
