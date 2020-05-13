@@ -37,7 +37,7 @@ disqus-shortname: naanadr-github-io
 analytics: UA-162706311-1
 
 # Include list
-include: [assets/docs/maria_fernanda_souza_andrade_CV.pdf]
+include: [assets/docs/CV.pdf]
 
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
