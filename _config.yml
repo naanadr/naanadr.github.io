@@ -1,8 +1,8 @@
 title: Maria Fernanda | Python Lover & PyLadie & Data Engineer
-email: mfsouza.contato@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Maria Fernanda Souza Andrade | Python Lover & PyLadie & Data Engineer
+  Maria Fernanda Souza Andrade | Python Lover & PyLadie & Data Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
+email: mfsouza.contato@gmail.com
 url: "https://mfsouza.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: naanadr
 github_username:  naanadr
@@ -14,10 +14,6 @@ telegram_username: naanadr
 reading_time: true
 words_per_minute: 200
 
-#sidebar
-# default-image: channel-cover.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
-
-
 built-by: naanadr
 
 copyright:
@@ -26,7 +22,7 @@ copyright:
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 10
 permalink: /blog/:title
 paginate_path: /blog/page:num/
 
