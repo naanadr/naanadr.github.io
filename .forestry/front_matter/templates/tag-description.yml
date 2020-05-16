@@ -20,5 +20,5 @@ fields:
   config:
     required: true
 pages:
+- tag/dlib.md
 - tag/opencv.md
-- tag/tag-dlib.md
