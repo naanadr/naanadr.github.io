@@ -20,9 +20,17 @@ layout: default
     </header>
 
     <div class="blog-post-body">
-      {% if page.image %}
+      {% if page.image != "" %}
         <figure class="blog-banner">
           <a><img class="img-fluid" src="{{site.url}}{{site.baseurl}}{{page.image}}" alt="{{page.title}}"></a>
+        </figure>
+      {% elsif page.tags contains "palestra" %}
+        <figure class="blog-banner">
+          <a><img class="img-fluid" src="{{site.url}}{{site.baseurl}}/assets/images/blog/banner-palestra.png" alt="{{post.title}}"></a>
+        </figure>
+      {% elsif page.tags contains "tutorial" %}
+        <figure class="blog-banner">
+          <a><img class="img-fluid" src="{{site.url}}{{site.baseurl}}/assets/images/blog/banner-tutorial.png" alt="{{post.title}}"></a>
         </figure>
       {% else %}
         <figure class="blog-banner">
