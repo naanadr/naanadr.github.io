@@ -21,3 +21,4 @@ fields:
     required: true
 pages:
 - tag/opencv.md
+- tag/tag-dlib.md
