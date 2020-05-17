@@ -1,11 +1,11 @@
 ---
-date: 2019-10-13 01:48:25 +0000
+date: 2019-10-13T01:48:25.000+00:00
 tags:
 - opencv
-- " dlib"
 - palestra
 - deteccao-de-rosto
 - python
+- dlib
 type: talk
 layout: post
 title: Zuando Detecção de Rosto
