@@ -1,6 +1,7 @@
 ---
 layout: tagpage
 title: 'Tag: IA'
-tag: []
+tag:
+- IA
 
 ---
