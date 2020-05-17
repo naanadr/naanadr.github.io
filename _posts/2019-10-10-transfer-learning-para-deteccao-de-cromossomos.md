@@ -1,12 +1,12 @@
 ---
-date: 2019-10-10 23:50:15 +0000
+date: 2019-10-10T23:50:15.000+00:00
 tags:
 - cromossomos
 - palestra
 - IA
 - Deep-Learning
 - Transfer-Learning
-type: blog
+type: talk
 layout: post
 title: Transfer Learning para Detecção de Cromossomos
 description: Apresentação sobre como a abordagem Transfer Learning foi utilizada na
