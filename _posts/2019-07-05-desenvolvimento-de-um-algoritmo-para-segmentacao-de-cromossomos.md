@@ -26,4 +26,4 @@ Desenvolvimento de um algoritmo para segmentação de cromossomos em parceria co
 
 ### Apresentação
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRePqAhYtaKiNbbW5EmfTnLj02KCRTQUu2Jcsc93hHBWk_O-zzCc547OXPaD2waa8i5fpGk0VQ_Y2Uz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRePqAhYtaKiNbbW5EmfTnLj02KCRTQUu2Jcsc93hHBWk_O-zzCc547OXPaD2waa8i5fpGk0VQ_Y2Uz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
