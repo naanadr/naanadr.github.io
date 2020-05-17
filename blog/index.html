@@ -7,10 +7,14 @@ layout: default
     {% for post in paginator.posts %}
       <div class="item mb-5">
         <div class="media">
-          {% if post.preview %}
+          {% if post.preview != "" %}
             <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}{{post.image}}" alt="image">
+          {% elsif post.tags contains "palestra" %}
+            <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}/assets/images/blog/template-palestra.png" alt="{{post.title}}">
+          {% elsif post.tags contains "tutorial" %}
+            <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}/assets/images/blog/template-tutorial.png" alt="{{post.title}}">
           {% else %}
-            <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}/assets/images/blog/template-blog-post.png" alt="image">
+            <img  class="mr-3 img-fluid post-thumb d-none d-md-flex" src="{{site.url}}{{site.baseurl}}/assets/images/blog/template-blog-post.png" alt="{{post.title}}">
           {% endif %}
           <div class="media-body">
             <h3 class="title mb-1"><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></h3>
