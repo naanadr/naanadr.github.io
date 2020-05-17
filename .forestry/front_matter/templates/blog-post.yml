@@ -69,8 +69,8 @@ fields:
     maxSize: 64
   label: Preview
 pages:
+- _posts/2019-07-20-utilizando-os-pandas-para-entender-os-casos-de-violencia-contra-a-mulher-na-cidade-do-recife.versao-1.md
 - _posts/2019-10-10-transfer-learning-para-deteccao-de-cromossomos.md
 - _posts/2019-10-13-zuando-detecção-de-rosto.md
 - _posts/2020-05-07-detecção-de-cromossomos-e-inteligência-artificial-como-se-comunicam.md
 - _posts/utilizando-os-pandas-para-entender-os-casos-de-violencia-contra-a-mulher-na-cidade-do-recife-versao2.md
-- _posts/utilizando-os-pandas-para-entender-os-casos-de-violencia-contra-a-mulher-na-cidade-do-recife.versao-1.md
