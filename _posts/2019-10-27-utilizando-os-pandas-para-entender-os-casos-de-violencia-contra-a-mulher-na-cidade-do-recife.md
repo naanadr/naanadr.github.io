@@ -8,7 +8,7 @@ tags:
 type: talk
 layout: post
 title: Utilizando os pandas para entender os casos de violência contra a mulher na
-  cidade do Recife.
+  cidade do Recife. Versão 2.
 description: 'Uma análise dos casos de violência contra a mulher na cidade do Recife,
   a partir dos processos relacionados com o tema abertos no Tribunal de Justiça de
   PE. '
