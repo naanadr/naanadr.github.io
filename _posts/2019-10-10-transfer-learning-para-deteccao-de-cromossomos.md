@@ -1,7 +1,6 @@
 ---
 date: 2019-10-10 23:50:15 +0000
 tags:
-- palestra
 - cromossomos
 - palestra
 - IA
