@@ -20,7 +20,7 @@ fields:
   config:
     required: true
 pages:
+- tag/Deep-Learning.md
 - tag/Transfer-Learning.md
-- tag/deep-learning.md
 - tag/dlib.md
 - tag/opencv.md
