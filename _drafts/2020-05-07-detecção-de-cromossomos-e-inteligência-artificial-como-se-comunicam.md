@@ -15,11 +15,15 @@ image: "/images/post-cromossomos.png"
 preview: "/images/preview-cromossomos.png"
 
 ---
-Quando eu falei um pouco [sobre mim](https://naanadr.github.io/about/), mencionei que passei boa parte da minha graduação (mais de 2 anos de PIBIC) pesquisando na área de Processamento de Imagem e Visão Computacional... **com enfase** na área **biomedica**.
+Quando eu falei um pouco [sobre mim](https://naanadr.github.io/about/), mencionei que passei boa parte da minha graduação (mais de 2 anos de PIBIC) pesquisando na área de Processamento de Imagem e Visão Computacional... **com ênfase** na área **biomedica**.
 
 Mas acabei não falando muito bem qual era o problema, o que eu consegui fazer e todo o _bla bla bla_. Eu queria compartilhar isso com mais detalhes em outro momento, e bem... esse é o momento!
 
-Como eu tenho muito o que falar sobre isso preferi partir em duas postagens. Na primeira (essa aqui) eu irei explicar com mais detalhes o que consiste o problema de **detecção de cromossomos**, enquanto que na segunda parte eu irei focar em explicar a solução que eu desenvolvi junto com o meu orientador.
+Como eu tenho muito o que falar sobre isso preferi partir em duas postagens. Na primeira (essa aqui) irei falar sobre os seguintes pontos:
+
+* O que são cromossomos;
+* O laboratório dosimetria biológica do CRCN-NE;
+* O problema de contagem e detecção de cromossomos;
 
 ### O que são cromossomos?
 
