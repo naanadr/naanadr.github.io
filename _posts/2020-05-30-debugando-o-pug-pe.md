@@ -32,5 +32,4 @@ Estamos em 2020 e o PUG-PE tem quase 13 anos e mais de 60 encontros realizados. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmCElTofs4s?start=5862" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Slide
-
-<iframe src="[https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000 "https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000")" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
