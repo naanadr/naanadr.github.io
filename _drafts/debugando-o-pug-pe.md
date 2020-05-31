@@ -19,11 +19,11 @@ preview: ''
 
 1ª MeetUp Online do [PUG-PB](https://pb.python.org.br/eventos.html)
 
-Evento completo no [YouTube](https://youtu.be/rmCElTofs4s) 
+Evento completo no [YouTube](https://youtu.be/rmCElTofs4s)
 
 ## Resumo
 
-O grupo de usuários de Python em PE ou carinhosamente PUG-PE vive sua vida sempre confundido com a raça de cachorro, mas mesmo assim nunca desistiu de passar a palavra do Python em diante. Teve sua vida iniciada dentro de uma lista de discussões em 2007 e em 2010 seu primeiro encontro ocorreu \o/
+O grupo de usuários de Python em PE ou carinhosamente PUG-PE vive sua vida sempre confundido com a raça de cachorro, mas mesmo assim nunca desistiu de passar a palavra do Python em diante. Teve sua vida iniciada dentro de uma lista de discussões em 2007 e em 2010 seu primeiro encontro ocorreu \\o/
 
 Estamos em 2020 e o PUG-PE tem quase 13 anos e mais de 60 encontros realizados. E o mais importante ele tem muita historia para contar, já tropeçou e levantou diversas vezes e mesmo assim nunca desistiu. Pensando nisso e também na importância dos grupos regionais de Python, queremos compartilhar nossa experiência com vocês <3 mostrar nosso fluxo de organização, nossa distribuição de tarefas e assim poder incentivar que novos grupos surjam ou resurjam ao longo do nosso nordeste.
 
@@ -33,4 +33,4 @@ Estamos em 2020 e o PUG-PE tem quase 13 anos e mais de 60 encontros realizados. 
 
 ## Slide
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="[https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000 "https://docs.google.com/presentation/d/e/2PACX-1vSOiKJtCx97SMuFUcWaQ3mgJWMmTOrbOVEVP2gpylZm1rSFGWsHhg8aiJOCpvg2mPew747oZMyV9Va1/embed?start=false&loop=false&delayms=3000")" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
