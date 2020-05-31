@@ -4,6 +4,7 @@ tags:
 - pugpe
 - comunidade
 - python
+- palestra
 type: talk
 layout: post
 title: Debugando o PUG-PE
