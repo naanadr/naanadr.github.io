@@ -29,11 +29,11 @@ Imagino que você também esteja sentindo que 24h não seja suficiente, que prec
 
 Hoje eu consigo responder essas perguntas, e com isso consegui me conhecer um pouco mais. Aquela sensação de que eu não estou avançando é um pouco menor hoje, na verdade, não sei se em algum momento ela não existirá mais. Espero que com esse texto eu possa te ajudar a se conhecer um pouco mais, estarei te mostrando as ferramentas que eu uso e como eu uso elas.
 
-*PS: Não espero que funcione 100% igual para você, somos pessoas diferentes com vidas diferentes*. *Aceito sugestões de melhorias* 😄 *porque não imagino que minha organização se manterá estático.*
+_PS: Não espero que funcione 100% igual para você, somos pessoas diferentes com vidas diferentes_. _Aceito sugestões de melhorias_ 😄 _porque não imagino que minha organização se manterá estático._
 
 ### Ferramentas
 
-Todas as ferramentas que irei falar daqui para frente, fornecem um plano gratuito para uso pessoal. Mas se você souber de ferramentas *Open Sources* compartilha comigo.
+Todas as ferramentas que irei falar daqui para frente, fornecem um plano gratuito para uso pessoal. Mas se você souber de ferramentas _Open Sources_ compartilha comigo.
 
 #### Notion
 
@@ -43,14 +43,11 @@ O [Notion](http://notion.so) é uma ferramenta com **múltiplos propósito** de 
 
 No site deles você encontrará exemplos de uso para essas principais aplicações. E se você achar que ainda não entendeu muito bem para que serve o Notion, eles possuem uma galeria com templates que eles e a comunidade de usuário fizeram [(link)](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d).
 
-
-<img src="images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/IMG_20200607_082100.jpg" alt="galeria do notion" width="700"/>
-
 Minha história com o Notion não é muito antiga, eu tentei utilizar ele a primeira vez no começo de 2019. No começo quando o conheci fiquei muito animada com tudo que é oferecido, mas ao mesmo tempo frustrada, porque eu não sabia como criar páginas que fossem realmente úteis para mim e acabei não conseguindo utilizar o Notion.
 
 Em Outubro de 2019 dei mais uma chance para ele, foi no período em que eu comecei a dar aula particular, e vi no Notion o local ideal para planejar as aulas  Outro fator que também me ajudou a retornar, foram as atualizações na usabilidade do aplicativo para Android (IOS também sofreu atualizações), que deixaram o app mais rápido e prático de utilizar 💓.
 
-*Em outro momento posso explicar mais sobre como utilizo o Notion, hoje minha vida toda está nele.*
+_Em outro momento posso explicar mais sobre como utilizo o Notion, hoje minha vida toda está nele._
 
 #### Toggl
 
@@ -58,13 +55,11 @@ Em Outubro de 2019 dei mais uma chance para ele, foi no período em que eu comec
 
 <img src="https://mk0utillylwljxgwwxuk.kinstacdn.com/wp-content/uploads/2019/08/toggl-375x195.png" alt="toggl logo" width="500"/>
 
-As atividades inseridas no Toggl podem receber rótulos e projetos. No final do seu dia, você terá gráficos com a quantidade de horas trabalhadas e em quais atividades você trabalhou. Além do seu dia, você consegue ter uma visão das semanas e dos meses. *Mas na frente mostrarei exemplos de uso, relaxe.*
+As atividades inseridas no Toggl podem receber rótulos e projetos. No final do seu dia, você terá gráficos com a quantidade de horas trabalhadas e em quais atividades você trabalhou. Além do seu dia, você consegue ter uma visão das semanas e dos meses. _Mas na frente mostrarei exemplos de uso, relaxe._
 
 A coisa mais legal do Toggl e que me chamou mais atenção é o seu [plugin](https://toggl.com/toggl-button/) para o navegador, com ele você consegue integrar boa parte das páginas que você utiliza (Gmail, Calendar, Jira, Github, Trello, Notion, Basecamp e diversas outras). Nesse plugin ele também te permite ativar o Pomodoro, removendo a necessidade de utilizar outro aplicativo para isso.s
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple_toggl_button.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple_toggl_button.png)
-
-Plugin do Toggl em uma página do Notion, ele se apresenta como um botão de ligar vermelho no canto esquerdo do titulo.
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple_toggl_button.png)
 
 O aplicativo para celular também é muito prático. Ele não tem todos os gráficos que aparecem na versão Web, mas ele funciona muito bem para iniciar e encerrar atividades, com poucos cliques na tela.
 
@@ -80,9 +75,9 @@ Eu utilizo o Google Calendar porque o meu e-mail é do Google. Mas você pode us
 
 Como estamos vivendo em um mundo muito incerto, não irei falar de planejamento quaternário e anual. Vamos nos reter a algo mais palpável, se mais na frente você quiser tente fazer um planejamento anual e quaternário. Por enquanto vamos buscar **nós sentir bem e principalmente, sentir que estamos progredindo na nossa vida**.
 
-A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no artigo do **[Nate Liason](https://www.nateliason.com/blog/notion-goals-productivity), recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
+A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no artigo do **[Nate Liason](https://www.nateliason.com/blog/notion-goals-productivity)**, recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
 
-*O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse l[ink](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e). Ele está em inglês, mas a tradução não será difícil, caso você queira.*
+_O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse l_[_ink_](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e)_. Ele está em inglês, mas a tradução não será difícil, caso você queira._
 
 #### No planejamento mensal
 
@@ -90,9 +85,7 @@ Se você já usou planner alguma vez, você lembrará daquelas páginas no come�
 
 Com isso em mente eu construo os meus objetivos mensais, dividindo em três grandes áreas: **profissional, pessoal** e **físico**. Para definir esses objetivos eu imagino que será necessário mais de uma semana ou uma grande quantidade de horas de esforço. Eu tento não me limitar nesse momento, mas acabo **nunca passando de cinco tópicos** por grande área.
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/month_plan_goals.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/month_plan_goals.png)
-
-Planejamento mensal com meus objetivos e meus planejamentos semanais.
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/month](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/month_plan_goals.png)
 
 Após criar minha sacola de objetivos, reflito novamente sobre eles e escolho **cinco que serão minhas prioridades**. Agora meu foco é concluir esses cinco objetivos durante as próximas semanas.
 
@@ -100,45 +93,40 @@ Após criar minha sacola de objetivos, reflito novamente sobre eles e escolho **
 
 Na noite de sábado eu reservo 30 minutos - fim do mês acabo passando mais tempo - para planejar minha semana que irá começar. Retorno para meus objetivos mensais e vejo quais posso focar durante essa semana. Como esses objetivos são geralmente grandes eu consigo dividir em sub-objetivos e priorizo em três níveis (A, B, C).
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_goas.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_goas.png)
-
-Planejamento semanal começa com a priorização de metas para os 7 dias que virão.
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_goas.png)
 
 Alguns objetivos serão convertidos em atividades que irei realizar em um dia específico da semana. E essa é a **segunda etapa do meu planejamento semanal**, lembrar de todas as atividades que devo realizar durante a semana e colocar elas no meu board semanal.
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_tasks.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_tasks.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_tasks.png)
 
-Board semanal com três arraias, um de Not Started, In Progress e Completed (Não Iniciada, Em Progresso e Completada), cada elemento dentro desse board é uma atividade que irei realizar durante a semana.
+Cada atividade cadastrada terá rótulos específicos: _Data e Horário, Para quem estou realizando a atividade, Dia da semana, Status da atividade_. Esses rótulos irão me ajudar a filtrar as atividades no meu board semanal e no meu calendário (você verá a seguir).
 
-Cada atividade cadastrada terá rótulos específicos: *Data e Horário, Para quem estou realizando a atividade, Dia da semana, Status da atividade*. Esses rótulos irão me ajudar a filtrar as atividades no meu board semanal e no meu calendário (você verá a seguir).
-
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/task_detail.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/task_detail.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/task](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/task_detail.png)
 
 Criação de atividades que irei realizar na semana, cada atividade é uma página com os atributos: Data, Dia da semana, Para quem é a atividade e status da atividade.
 
 Meu board semanal é chamado de **Tasks dd/mm/2020,** ele possui 8 visualizações, onde 7 visualizações correspondem aos dias da semana e a 8ª à atividades que não possuem um dia específico (TODO). Cada visualização possui um filtro que lê o **rótulo dia da semana** e mostra apenas as atividades daquele dia. Você poderá notar também que cada visualização possui três colunas (Not started, In progress, Completed) que representam o **rótulo status da atividade.**
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/board_semanal_view.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/board_semanal_view.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/board](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/board_semanal_view.png)
 
 Como o Notion oferece também a visualização de calendário, eu acabei deixando um pouco de lado o Google Calendário. E essa é a próxima fase do meu planejamento semanal, que consiste de criar uma copia do board Tasks dd/mm/2020 e utilizar a visualização de calendário (imagem à baixo). Para as minhas atividades ficarem certinhas no calendário, o Notion lê o atributo **data e hora** da minha atividade, por isso é importante sempre informar esse campo na criação da atividade.
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_calendar.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_calendar.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_calendar.png)
 
-Atividades criadas distribuídas em um calendário.
 
 #### No meu dia a dia
 
 O planejamento diário acaba sendo menos cansativo do que o planejamento semanal. Como já preenchi toda a minha agenda, só me resta acessar o Notion - pelo celular ou navegador - todo dia de manhã e verificar quais atividades preciso realizar naquele dia.
 
-Além dessas atividades, também preciso fazer algumas ações que espero que se transformem em um hábito. Sendo assim, meu objetivo é realizar elas todos os dias, uma ou várias vezes ao dia. Por isso ela acaba sendo enorme, para facilitar a visualização eu fiz uma cópia dessa tabela para meu planejamento semanal e filtrei apenas pelos dias relacionados a semana que estou, por isso você verá que tem uma setinha ao lado do nome *Habit Tracker.*
+Além dessas atividades, também preciso fazer algumas ações que espero que se transformem em um hábito. Sendo assim, meu objetivo é realizar elas todos os dias, uma ou várias vezes ao dia. Por isso ela acaba sendo enorme, para facilitar a visualização eu fiz uma cópia dessa tabela para meu planejamento semanal e filtrei apenas pelos dias relacionados a semana que estou, por isso você verá que tem uma setinha ao lado do nome _Habit Tracker._
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/habit_tracker.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/habit_tracker.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/habit](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/habit_tracker.png)
 
-Outra ação que hoje já virou um hábito meu, é ativar o Toggl quando começo uma atividade planejada para a semana ou um hábito. Como eu passo muito tempo no computador, acaba sendo muito prático fazer isso, por causa do plugin do Toggl para o navegador.  
+Outra ação que hoje já virou um hábito meu, é ativar o Toggl quando começo uma atividade planejada para a semana ou um hábito. Como eu passo muito tempo no computador, acaba sendo muito prático fazer isso, por causa do plugin do Toggl para o navegador.
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl_plugin.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl_plugin.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl_plugin.png)
 
-Recapitulando meu dia a dia... eu escolho uma atividade do meu planejamento diário, coloco ela em *Fazendo* e ativo o cronômetro do Toggl, quando termino eu desativo o cronômetro e coloco a atividade como *Feito*. Acho que você deve estar pensando que isso parece um saco, mas para mim acabou ficando automático e hoje não penso muito sobre as etapas.
+Recapitulando meu dia a dia... eu escolho uma atividade do meu planejamento diário, coloco ela em _Fazendo_ e ativo o cronômetro do Toggl, quando termino eu desativo o cronômetro e coloco a atividade como _Feito_. Acho que você deve estar pensando que isso parece um saco, mas para mim acabou ficando automático e hoje não penso muito sobre as etapas.
 
 ### Revisitando minha vida
 
@@ -152,21 +140,17 @@ No fundo eu sabia que precisava fazer alguma coisa para que esse sentimento foss
 
 Todo sábado de noite - as vezes domingo de manhã - eu revisito minha semana no Notion e no Toggl, para isso eu sigo alguns passos. Primeiro, eu vejo quais atividades ficaram sem ser feitas e reflito se elas precisam ser feitas ainda, se sim, elas são encaminhadas para a próxima semana, se não, elas vão para o lixo. Em seguida eu me encaminho para a seção **Weekly Review** (Revisão Semanal) no meu planejamento semanal, nessa seção eu não fiz muitas alterações no template original, nela eu reflito sobre minhas ações e como elas estão relacionadas com os meus objetivos mensais e quais serão meus próximos objetivos semanais.
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/weekly_review.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/weekly_review.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/weekly](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/weekly_review.png)
 
-Seção de Revisão Semanal encontrada no fim da página de planejamento semanal.
+Outro ponto importânte da minha revisão semanal é o **Toggl Review**, nele eu retorno para o Toggl e análiso as atividades que eu executei e quanto tempo eu passei nelas. Para manter o histórico eu sempre tiro um _print_ da tela e colo no Notion, isso me ajuda a comparar mais facilmente minhas semanas. Nesse momento eu também consigo detectar quando estou me sobrecarregando, em quais atividades eu me dedico mais e onde eu deveria me dedicar mais.
 
-Outro ponto importânte da minha revisão semanal é o **Toggl Review**, nele eu retorno para o Toggl e análiso as atividades que eu executei e quanto tempo eu passei nelas. Para manter o histórico eu sempre tiro um *print* da tela e colo no Notion, isso me ajuda a comparar mais facilmente minhas semanas. Nesse momento eu também consigo detectar quando estou me sobrecarregando, em quais atividades eu me dedico mais e onde eu deveria me dedicar mais.
-
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl_week.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl_week.png)
-
-Relatório da semana gerado pelo Toggl com o tempo total gasto em cada projeto e a distribuição pelos dias da semana.
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/toggl_week.png)
 
 #### Revisão do meu mês
 
 A revisão do mês segue o mesmo caminho da revisão semanal, Notion + Toggl. Baseado nas semanas que passaram eu respondo perguntas que me ajudam a refletir sobre minhas ações e para onde elas me levaram. Assim eu consigo retornar ao passado e planejar um futuro mais pé no chão - a primeira vez que eu fiz isso, meu planejamento estava acima do que eu realmente consigo fazer - aprendendo assim com os erros e os acertos.
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/monthly_review.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/monthly_review.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/monthly](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/monthly_review.png)
 
 ### Considerações Finais
 
