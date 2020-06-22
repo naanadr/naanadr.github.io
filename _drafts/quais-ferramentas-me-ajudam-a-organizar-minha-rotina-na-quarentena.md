@@ -1,28 +1,23 @@
 ---
 date: 2020-06-22 00:29:39 +0000
-tags: []
+tags:
+- dicas
+- pessoal
+- planejamento
+- quarentena
+- notion
+- toggl
 type: blog
 layout: post
 title: Quais ferramentas me ajudam a  organizar minha rotina na quarentena
 description: Planejamento de vida versão 1.0 utilizando Notion e Toggl para se sentir
   produtiva. Nesse post eu explico melhor o que me motivou a utilizar essas ferramentas
   e como eu utilizo elas no meu dia a dia.
-image: ''
-preview: ''
+image: "/images/time-planning.jpg"
+preview: "/images/time-planning.jpg"
 
 ---
-# Quais ferramentas me ajudam a  organizar minha rotina na quarentena
-
-Date Created: Jun 05, 2020 11:28 PM
-Posted: No
-Status: Doing
-Tags: Dicas, Organização, Pessoal, Planejamento
-
-![https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
-
 Eu sofro muito com mudança de rotina, sou tão dependente de rotina que estou sempre buscando meios de me organizar melhor. Quando o Coronavirus chegou no Recife, eu estava em um grande momento de adaptação e tentando me organizar. Mas tudo que eu planejei e como eu planejei foi por água a baixo! 
-
-porque
 
 Na primeira semana em casa, sem aula da universidade e trabalhando remoto, eu tentei criar uma nova rotina. Destacando principalmente o relaxamento, porque algumas semanas antes eu estava prestes a ter um colapso - depois conto mais sobre isso. 
 
