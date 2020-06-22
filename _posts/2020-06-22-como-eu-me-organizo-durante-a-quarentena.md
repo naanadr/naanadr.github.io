@@ -21,7 +21,7 @@ Eu sofro muito com mudança de rotina, sou tão dependente de rotina que estou s
 
 Na primeira semana em casa, sem aula da universidade e trabalhando remoto, eu tentei criar uma nova rotina. Destacando principalmente o relaxamento, porque algumas semanas antes eu estava prestes a ter um colapso - depois conto mais sobre isso.
 
-A minha rotina foi se construindo, fui experimentando algumas coisas e comecei a sentir que estava conseguindo me organizar. Mas infelizmente, eu ainda **estava sentindo que trabalhava de mais e descansava pouco**, era como se eu não estivesse fazendo nada construtivo na minha vida.
+A minha rotina foi se construindo, fui experimentando algumas coisas e comecei a sentir que estava conseguindo me organizar. Mas infelizmente, eu ainda **estava sentindo que trabalhava demais e descansava pouco**, era como se eu não estivesse fazendo nada construtivo na minha vida.
 
 A partir desse sentimento de insatisfação, fui em busca de meios de **descobrir para onde estava indo meu tempo**. Será que eu estava gastando tempo de mais com o trabalho ou será que eram as aulas particulares? Por que eu não tinha tempo para ler? 🤔
 
@@ -29,24 +29,24 @@ Imagino que você também esteja sentindo que 24h não seja suficiente, que prec
 
 Hoje eu consigo responder essas perguntas, e com isso consegui me conhecer um pouco mais. Aquela sensação de que eu não estou avançando é um pouco menor hoje, na verdade, não sei se em algum momento ela não existirá mais. Espero que com esse texto eu possa te ajudar a se conhecer um pouco mais, estarei te mostrando as ferramentas que eu uso e como eu uso elas.
 
-_PS: Não espero que funcione 100% igual para você, somos pessoas diferentes com vidas diferentes_. _Aceito sugestões de melhorias_ 😄 _porque não imagino que minha organização se manterá estático._
+_PS: Não espero que funcione 100% igual para você, somos pessoas diferentes com vidas diferentes_. _Aceito sugestões de melhorias_ 😄 _porque não imagino que minha organização se manterá estática._
 
 ### Ferramentas
 
-Todas as ferramentas que irei falar daqui para frente, fornecem um plano gratuito para uso pessoal. Mas se você souber de ferramentas _Open Sources_ compartilha comigo.
+Todas as ferramentas que irei falar daqui para frente, fornecem um plano gratuito para uso pessoal. Mas se você souber de ferramentas _Open Source_ compartilha comigo.
 
 #### Notion
 
-O [Notion](http://notion.so) é uma ferramenta com **múltiplos propósito** de uso web ou mobile. No Notion você consegue fazer notas rápidas ou planejar toda sua vida.
+O [Notion](http://notion.so) é uma ferramenta com **múltiplos propósitos** de uso web ou mobile. No Notion você consegue fazer notas rápidas ou planejar toda sua vida.
 
 <img class="img-fluid" src="https://miro.medium.com/max/5694/1*Cs28Szju8wDf499NUeTEuA.jpeg" alt="notion pagina princial" width="700"/>
 
 
-No site deles você encontrará exemplos de uso para essas principais aplicações. E se você achar que ainda não entendeu muito bem para que serve o Notion, eles possuem uma galeria com templates que eles e a comunidade de usuário fizeram [(link)](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d).
+No site deles você encontrará exemplos de uso para essas principais aplicações. E se você achar que ainda não entendeu muito bem para que serve o Notion, eles possuem uma galeria com templates que eles e a comunidade de usuários fizeram [(link)](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d).
 
 Minha história com o Notion não é muito antiga, eu tentei utilizar ele a primeira vez no começo de 2019. No começo quando o conheci fiquei muito animada com tudo que é oferecido, mas ao mesmo tempo frustrada, porque eu não sabia como criar páginas que fossem realmente úteis para mim e acabei não conseguindo utilizar o Notion.
 
-Em Outubro de 2019 dei mais uma chance para ele, foi no período em que eu comecei a dar aula particular, e vi no Notion o local ideal para planejar as aulas  Outro fator que também me ajudou a retornar, foram as atualizações na usabilidade do aplicativo para Android (IOS também sofreu atualizações), que deixaram o app mais rápido e prático de utilizar 💓.
+Em Outubro de 2019 dei mais uma chance para ele, foi no período em que eu comecei a dar aula particular, e vi no Notion o local ideal para planejar as aulas. Outro fator que também me ajudou a retornar, foram as atualizações na usabilidade do aplicativo para Android (IOS também sofreu atualizações), que deixaram o app mais rápido e prático de utilizar 💓.
 
 _Em outro momento posso explicar mais sobre como utilizo o Notion, hoje minha vida toda está nele._
 
@@ -58,7 +58,7 @@ _Em outro momento posso explicar mais sobre como utilizo o Notion, hoje minha vi
 
 As atividades inseridas no Toggl podem receber rótulos e projetos. No final do seu dia, você terá gráficos com a quantidade de horas trabalhadas e em quais atividades você trabalhou. Além do seu dia, você consegue ter uma visão das semanas e dos meses. _Mas na frente mostrarei exemplos de uso, relaxe._
 
-A coisa mais legal do Toggl e que me chamou mais atenção é o seu [plugin](https://toggl.com/toggl-button/) para o navegador, com ele você consegue integrar boa parte das páginas que você utiliza (Gmail, Calendar, Jira, Github, Trello, Notion, Basecamp e diversas outras). Nesse plugin ele também te permite ativar o Pomodoro, removendo a necessidade de utilizar outro aplicativo para isso.
+A coisa mais legal do Toggl e que me chamou mais atenção é o seu [plugin](https://toggl.com/toggl-button/) para o navegador, com ele você consegue integrar boa parte das páginas que você utiliza (Gmail, Calendar, Jira, Github, Trello, Notion, Basecamp e diversas outras). Nesse plugin ele também te permite ativar o Pomodoro (para saber mais sobre Pomodoro, recomendo esse [link](https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm) do Brasil Escola), removendo a necessidade de utilizar outro aplicativo para isso.
 
 <img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple_toggl_button.png" alt="exemplo do plugin do toggl" width="700"/>
 
@@ -76,9 +76,9 @@ Eu utilizo o Google Calendar porque o meu e-mail é do Google. Mas você pode us
 
 Como estamos vivendo em um mundo muito incerto, não irei falar de planejamento quaternário e anual. Vamos nos reter a algo mais palpável, se mais na frente você quiser tente fazer um planejamento anual e quaternário. Por enquanto vamos buscar **nós sentir bem e principalmente, sentir que estamos progredindo na nossa vida**.
 
-A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no artigo do **[Nate Liason](https://www.nateliason.com/blog/notion-goals-productivity)**, recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
+A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no **[artigo do Nate Liason](https://www.nateliason.com/blog/notion-goals-productivity)**, recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
 
-_O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse l_[_ink_](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e)_. Ele está em inglês, mas a tradução não será difícil, caso você queira._
+_O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse _[link_](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e)_. Ele está em inglês, mas a tradução não será difícil, caso você queira._
 
 #### No planejamento mensal
 
