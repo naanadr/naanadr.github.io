@@ -31,17 +31,15 @@ Hoje eu consigo responder essas perguntas, e com isso consegui me conhecer um po
 
 *PS: Não espero que funcione 100% igual para você, somos pessoas diferentes com vidas diferentes*. *Aceito sugestões de melhorias* 😄 *porque não imagino que minha organização se manterá estático.*
 
----
-
-## Ferramentas
+### Ferramentas
 
 Todas as ferramentas que irei falar daqui para frente, fornecem um plano gratuito para uso pessoal. Mas se você souber de ferramentas *Open Sources* compartilha comigo.
 
-### Notion
+#### Notion
 
 O [Notion](http://notion.so) é uma ferramenta com **múltiplos propósito** de uso web ou mobile. No Notion você consegue fazer notas rápidas ou planejar toda sua vida.
 
-[https://images.app.goo.gl/A6JnudwaF5KMFtYe8](https://miro.medium.com/max/5694/1*Cs28Szju8wDf499NUeTEuA.jpeg)
+<img src="https://miro.medium.com/max/5694/1*Cs28Szju8wDf499NUeTEuA.jpeg" alt="notion pagina princial" width="700"/>
 
 No site deles você encontrará exemplos de uso para essas principais aplicações. E se você achar que ainda não entendeu muito bem para que serve o Notion, eles possuem uma galeria com templates que eles e a comunidade de usuário fizeram [(link)](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d). 
 
@@ -53,11 +51,13 @@ Em Outubro de 2019 dei mais uma chance para ele, foi no período em que eu comec
 
 *Em outro momento posso explicar mais sobre como utilizo o Notion, hoje minha vida toda está nele.*
 
-### Toggl
+#### Toggl
 
 É uma ferramenta de **monitoramento de tempo**. Muito utilizada em empresas que desejam saber a hora trabalha de um funcionário, mas você verá que o seu uso não fica restrito apenas as atividades comerciais. Ele está disponível na versão web, mobile e desktop. 
 
 [https://images.app.goo.gl/yCeMM34RVfDQwqKv7](https://images.app.goo.gl/yCeMM34RVfDQwqKv7)
+<img src="https://miro.medium.com/max/5694/1*Cs28Szju8wDf499NUeTEuA.jpeg" alt="notion pagina princial" width="700"/>
+
 
 As atividades inseridas no Toggl podem receber rótulos e projetos. No final do seu dia, você terá gráficos com a quantidade de horas trabalhadas e em quais atividades você trabalhou. Além do seu dia, você consegue ter uma visão das semanas e dos meses. *Mas na frente mostrarei exemplos de uso, relaxe.* 
 
@@ -69,7 +69,7 @@ Plugin do Toggl em uma página do Notion, ele se apresenta como um botão de lig
 
 O aplicativo para celular também é muito prático. Ele não tem todos os gráficos que aparecem na versão Web, mas ele funciona muito bem para iniciar e encerrar atividades, com poucos cliques na tela. 
 
-### Google Calendário
+#### Google Calendário
 
 O Google Calendário é mais uma das ferramentas que o Google fornece, e imagino que seja uma das mais utilizadas junto com o Gmail. 
 
@@ -77,9 +77,7 @@ O Google Calendário é mais uma das ferramentas que o Google fornece, e imagino
 
 Eu utilizo o Google Calendar porque o meu e-mail é do Google. Mas você pode usar qualquer aplicativo de calendário, ou usar nenhum específico, como você verá a seguir. 
 
----
-
-## Planejando minha vida
+### Planejando minha vida
 
 Como estamos vivendo em um mundo muito incerto, não irei falar de planejamento quaternário e anual. Vamos nos reter a algo mais palpável, se mais na frente você quiser tente fazer um planejamento anual e quaternário. Por enquanto vamos buscar **nós sentir bem e principalmente, sentir que estamos progredindo na nossa vida**. 
 
@@ -87,7 +85,7 @@ A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará
 
 *O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse l[ink](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e). Ele está em inglês, mas a tradução não será difícil, caso você queira.*
 
-### No planejamento mensal
+#### No planejamento mensal
 
 Se você já usou planner alguma vez, você lembrará daquelas páginas no começo de todos os meses reservada para a definição de metas. No começo eu achava o espaço muito pequeno, mas hoje eu entendo que o espaço é suficiente, e que precisamos **priorizar objetivos palpáveis em nossa vida**. 
 
@@ -99,7 +97,7 @@ Planejamento mensal com meus objetivos e meus planejamentos semanais.
 
 Após criar minha sacola de objetivos, reflito novamente sobre eles e escolho **cinco que serão minhas prioridades**. Agora meu foco é concluir esses cinco objetivos durante as próximas semanas. 
 
-### No planejamento semanal
+#### No planejamento semanal
 
 Na noite de sábado eu reservo 30 minutos - fim do mês acabo passando mais tempo - para planejar minha semana que irá começar. Retorno para meus objetivos mensais e vejo quais posso focar durante essa semana. Como esses objetivos são geralmente grandes eu consigo dividir em sub-objetivos e priorizo em três níveis (A, B, C). 
 
@@ -129,7 +127,7 @@ Como o Notion oferece também a visualização de calendário, eu acabei deixand
 
 Atividades criadas distribuídas em um calendário.
 
-### No meu dia a dia
+#### No meu dia a dia
 
 O planejamento diário acaba sendo menos cansativo do que o planejamento semanal. Como já preenchi toda a minha agenda, só me resta acessar o Notion - pelo celular ou navegador - todo dia de manhã e verificar quais atividades preciso realizar naquele dia. 
 
@@ -143,7 +141,7 @@ Outra ação que hoje já virou um hábito meu, é ativar o Toggl quando começo
 
 Recapitulando meu dia a dia... eu escolho uma atividade do meu planejamento diário, coloco ela em *Fazendo* e ativo o cronômetro do Toggl, quando termino eu desativo o cronômetro e coloco a atividade como *Feito*. Acho que você deve estar pensando que isso parece um saco, mas para mim acabou ficando automático e hoje não penso muito sobre as etapas.
 
-## Revisitando minha vida
+### Revisitando minha vida
 
 Ok, eu planejei minha semana consegui fazer tudo - ou quase tudo - planejado. Acabou? Posso ir para a próxima semana e planejar tudo de novo? 
 
@@ -151,7 +149,7 @@ Eu poderia fazer isso e era o que eu fazia quando usava planner. Mas acabei perc
 
 No fundo eu sabia que precisava fazer alguma coisa para que esse sentimento fosse embora, mas eu não sabia o que exatamente. E foi aí que lendo o blog do [Nate Liason](https://www.nateliason.com/blog/notion-goals-productivity) percebi o que precisava fazer! Eu estava precisando **revisitar minha semana e me questionar sobre o que eu fiz e iria fazer**.
 
-### Revisão da minha semana
+#### Revisão da minha semana
 
 Todo sábado de noite - as vezes domingo de manhã - eu revisito minha semana no Notion e no Toggl, para isso eu sigo alguns passos. Primeiro, eu vejo quais atividades ficaram sem ser feitas e reflito se elas precisam ser feitas ainda, se sim, elas são encaminhadas para a próxima semana, se não, elas vão para o lixo. Em seguida eu me encaminho para a seção **Weekly Review** (Revisão Semanal) no meu planejamento semanal, nessa seção eu não fiz muitas alterações no template original, nela eu reflito sobre minhas ações e como elas estão relacionadas com os meus objetivos mensais e quais serão meus próximos objetivos semanais.
 
@@ -165,13 +163,13 @@ Outro ponto importânte da minha revisão semanal é o **Toggl Review**, nele eu
 
 Relatório da semana gerado pelo Toggl com o tempo total gasto em cada projeto e a distribuição pelos dias da semana.
 
-### Revisão do meu mês
+#### Revisão do meu mês
 
 A revisão do mês segue o mesmo caminho da revisão semanal, Notion + Toggl. Baseado nas semanas que passaram eu respondo perguntas que me ajudam a refletir sobre minhas ações e para onde elas me levaram. Assim eu consigo retornar ao passado e planejar um futuro mais pé no chão - a primeira vez que eu fiz isso, meu planejamento estava acima do que eu realmente consigo fazer - aprendendo assim com os erros e os acertos.
 
 ![Quais%20ferramentas%20me%20ajudam%20a%20organizar%20minha%20roti%2064215dcc836d4045aa619117bec074ab/Untitled%203.png](Quais%20ferramentas%20me%20ajudam%20a%20organizar%20minha%20roti%2064215dcc836d4045aa619117bec074ab/Untitled%203.png)
 
-## Considerações Finais
+### Considerações Finais
 
 Eu espero ter consegido te dar uma ideia sobre outras meios de se organizar, fugindo um pouco das técnologias - papel incluso - que estamos acostumados a ver. Meu planejamento está em constante mudança, então provavelmente farei uma versão 2.0 em algum momento. 
 
