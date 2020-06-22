@@ -1,5 +1,5 @@
 ---
-date: 2020-06-22 00:29:39 +0000
+date: 2020-06-22T00:29:39.000+00:00
 tags:
 - dicas
 - pessoal
@@ -43,7 +43,8 @@ O [Notion](http://notion.so) é uma ferramenta com **múltiplos propósito** de 
 
 No site deles você encontrará exemplos de uso para essas principais aplicações. E se você achar que ainda não entendeu muito bem para que serve o Notion, eles possuem uma galeria com templates que eles e a comunidade de usuário fizeram [(link)](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d).
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/IMG_20200607_082100.jpg](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/IMG_20200607_082100.jpg)
+
+<img src="images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/IMG_20200607_082100.jpg" alt="galeria do notion" width="700"/>
 
 Minha história com o Notion não é muito antiga, eu tentei utilizar ele a primeira vez no começo de 2019. No começo quando o conheci fiquei muito animada com tudo que é oferecido, mas ao mesmo tempo frustrada, porque eu não sabia como criar páginas que fossem realmente úteis para mim e acabei não conseguindo utilizar o Notion.
 
