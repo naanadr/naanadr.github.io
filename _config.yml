@@ -26,6 +26,11 @@ paginate: 10
 permalink: /blog/:title
 paginate_path: /blog/page:num/
 
+# Social
+twitter:
+  username: naanadr
+  card: summary_large_image
+
 # Comments
 disqus: yes
 disqus-shortname: mfsouza
@@ -37,4 +42,6 @@ analytics: UA-162706311-1
 include: [assets/docs/CV.pdf]
 
 # Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
