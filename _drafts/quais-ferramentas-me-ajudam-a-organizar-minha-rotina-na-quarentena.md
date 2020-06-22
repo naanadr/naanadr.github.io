@@ -62,7 +62,7 @@ As atividades inseridas no Toggl podem receber rótulos e projetos. No final do 
 
 A coisa mais legal do Toggl e que me chamou mais atenção é o seu [plugin](https://toggl.com/toggl-button/) para o navegador, com ele você consegue integrar boa parte das páginas que você utiliza (Gmail, Calendar, Jira, Github, Trello, Notion, Basecamp e diversas outras). Nesse plugin ele também te permite ativar o Pomodoro, removendo a necessidade de utilizar outro aplicativo para isso.s
 
-![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/Untitled.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/Untitled.png)
+![images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple_toggl_button.png](images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple_toggl_button.png)
 
 Plugin do Toggl em uma página do Notion, ele se apresenta como um botão de ligar vermelho no canto esquerdo do titulo.
 
