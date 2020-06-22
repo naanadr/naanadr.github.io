@@ -41,7 +41,7 @@ Todas as ferramentas que irei falar daqui para frente, fornecem um plano gratuit
 
 O [Notion](http://notion.so) é uma ferramenta com **múltiplos propósito** de uso web ou mobile. No Notion você consegue fazer notas rápidas ou planejar toda sua vida.
 
-[https://images.app.goo.gl/A6JnudwaF5KMFtYe8](https://images.app.goo.gl/A6JnudwaF5KMFtYe8)
+[https://images.app.goo.gl/A6JnudwaF5KMFtYe8](https://miro.medium.com/max/5694/1*Cs28Szju8wDf499NUeTEuA.jpeg)
 
 No site deles você encontrará exemplos de uso para essas principais aplicações. E se você achar que ainda não entendeu muito bem para que serve o Notion, eles possuem uma galeria com templates que eles e a comunidade de usuário fizeram [(link)](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d). 
 
