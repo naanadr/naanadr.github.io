@@ -55,9 +55,7 @@ Em Outubro de 2019 dei mais uma chance para ele, foi no período em que eu comec
 
 É uma ferramenta de **monitoramento de tempo**. Muito utilizada em empresas que desejam saber a hora trabalha de um funcionário, mas você verá que o seu uso não fica restrito apenas as atividades comerciais. Ele está disponível na versão web, mobile e desktop. 
 
-[https://images.app.goo.gl/yCeMM34RVfDQwqKv7](https://images.app.goo.gl/yCeMM34RVfDQwqKv7)
-<img src="https://miro.medium.com/max/5694/1*Cs28Szju8wDf499NUeTEuA.jpeg" alt="notion pagina princial" width="700"/>
-
+<img src="https://mk0utillylwljxgwwxuk.kinstacdn.com/wp-content/uploads/2019/08/toggl-375x195.png" alt="toggl logo" width="500"/>
 
 As atividades inseridas no Toggl podem receber rótulos e projetos. No final do seu dia, você terá gráficos com a quantidade de horas trabalhadas e em quais atividades você trabalhou. Além do seu dia, você consegue ter uma visão das semanas e dos meses. *Mas na frente mostrarei exemplos de uso, relaxe.* 
 
@@ -73,7 +71,7 @@ O aplicativo para celular também é muito prático. Ele não tem todos os gráf
 
 O Google Calendário é mais uma das ferramentas que o Google fornece, e imagino que seja uma das mais utilizadas junto com o Gmail. 
 
-[https://images.app.goo.gl/TZvodon9dnWyvqqK9](https://images.app.goo.gl/TZvodon9dnWyvqqK9)
+<img src="https://upload.wikimedia.org/wikipedia/en/7/79/Google_Calendar_screenshot.png" alt="Google Calendar exemplo" width="700"/>
 
 Eu utilizo o Google Calendar porque o meu e-mail é do Google. Mas você pode usar qualquer aplicativo de calendário, ou usar nenhum específico, como você verá a seguir. 
 
