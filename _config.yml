@@ -30,6 +30,11 @@ paginate_path: /blog/page:num/
 twitter:
   username: naanadr
   card: summary_large_image
+author:
+  name: Maria Fernanda Souza
+  twitter: naanadr
+
+github: https://github.com/naanadr/
 
 # Comments
 disqus: yes
@@ -45,3 +50,5 @@ include: [assets/docs/CV.pdf]
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+
+timezone: America/Recife
