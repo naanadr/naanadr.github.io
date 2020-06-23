@@ -58,7 +58,7 @@ _Em outro momento posso explicar mais sobre como utilizo o Notion, hoje minha vi
 
 As atividades inseridas no Toggl podem receber rótulos e projetos. No final do seu dia, você terá gráficos com a quantidade de horas trabalhadas e em quais atividades você trabalhou. Além do seu dia, você consegue ter uma visão das semanas e dos meses. _Mas na frente mostrarei exemplos de uso, relaxe._
 
-A coisa mais legal do Toggl e que me chamou mais atenção é o seu [plugin](https://toggl.com/toggl-button/) para o navegador, com ele você consegue integrar boa parte das páginas que você utiliza (Gmail, Calendar, Jira, Github, Trello, Notion, Basecamp e diversas outras). Nesse plugin ele também te permite ativar o Pomodoro (para saber mais sobre Pomodoro, recomendo esse [link](https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm) do Brasil Escola), removendo a necessidade de utilizar outro aplicativo para isso.
+A coisa mais legal do Toggl e que me chamou mais atenção é o seu [plugin](https://toggl.com/toggl-button/) para o navegador, com ele você consegue integrar boa parte das páginas que você utiliza (Gmail, Agenda, Jira, Github, Trello, Notion, Basecamp e diversas outras). Nesse plugin ele também te permite ativar o Pomodoro (para saber mais sobre Pomodoro, recomendo esse [link](https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm) do Brasil Escola), removendo a necessidade de utilizar outro aplicativo para isso.
 
 <img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/exemple_toggl_button.png" alt="exemplo do plugin do toggl" width="700"/>
 
@@ -68,9 +68,9 @@ O aplicativo para celular também é muito prático. Ele não tem todos os gráf
 
 O Google Calendário é mais uma das ferramentas que o Google fornece, e imagino que seja uma das mais utilizadas junto com o Gmail.
 
-<img src="https://upload.wikimedia.org/wikipedia/en/7/79/Google_Calendar_screenshot.png" alt="Google Calendar exemplo" width="700"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/7/79/Google_Calendar_screenshot.png" alt="Google Calendar exemplo" width="500"/>
 
-Eu utilizo o Google Calendar porque o meu e-mail é do Google. Mas você pode usar qualquer aplicativo de calendário, ou usar nenhum específico, como você verá a seguir.
+Eu utilizo o Google Agenda porque o meu e-mail é do Google. Mas você pode usar qualquer aplicativo de calendário, ou usar nenhum específico, como você verá a seguir.
 
 ### Planejando minha vida
 
@@ -98,23 +98,23 @@ Na noite de sábado eu reservo 30 minutos - fim do mês acabo passando mais temp
 
 <img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_goas.png" alt="metas do planejamento semanal" width="700"/>
 
-Alguns objetivos serão convertidos em atividades que irei realizar em um dia específico da semana. E essa é a **segunda etapa do meu planejamento semanal**, lembrar de todas as atividades que devo realizar durante a semana e colocar elas no meu board semanal.
+Alguns objetivos serão convertidos em atividades que irei realizar em um dia específico da semana. E essa é a **segunda etapa do meu planejamento semanal**, lembrar de todas as atividades que devo realizar durante a semana e colocar elas no meu quadro semanal.
 
 <img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_tasks.png" alt="atividades na semana" width="700"/>
 
-Cada atividade cadastrada terá rótulos específicos: _Data e Horário, Para quem estou realizando a atividade, Dia da semana, Status da atividade_. Esses rótulos irão me ajudar a filtrar as atividades no meu board semanal e no meu calendário (você verá a seguir).
+Cada atividade cadastrada terá rótulos específicos: _Data e Horário, Para quem estou realizando a atividade, Dia da semana, Status da atividade_. Esses rótulos irão me ajudar a filtrar as atividades no meu quadro semanal e no meu calendário (você verá a seguir).
 
 <img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/task_detail.png" alt="detalhe das atividades da semana" width="700"/>
 
 Criação de atividades que irei realizar na semana, cada atividade é uma página com os atributos: Data, Dia da semana, Para quem é a atividade e status da atividade.
 
-Meu board semanal é chamado de **Tasks dd/mm/2020,** ele possui 8 visualizações, onde 7 visualizações correspondem aos dias da semana e a 8ª à atividades que não possuem um dia específico (TODO). Cada visualização possui um filtro que lê o **rótulo dia da semana** e mostra apenas as atividades daquele dia. Você poderá notar também que cada visualização possui três colunas (Not started, In progress, Completed) que representam o **rótulo status da atividade.**
+Meu quadro semanal é chamado de **Tasks dd/mm/2020,** ele possui 8 visualizações, onde 7 visualizações correspondem aos dias da semana e a 8ª à atividades que não possuem um dia específico (TODO). Cada visualização possui um filtro que lê o **rótulo dia da semana** e mostra apenas as atividades daquele dia. Você poderá notar também que cada visualização possui três colunas (Not started, In progress, Completed) que representam o **rótulo status da atividade.**
 
-<img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/board_semanal_view.png" alt="planejamento semanal visualização do board" width="700"/>
+<img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/board_semanal_view.png" alt="planejamento semanal visualização do quadro" width="700"/>
 
-Como o Notion oferece também a visualização de calendário, eu acabei deixando um pouco de lado o Google Calendário. E essa é a próxima fase do meu planejamento semanal, que consiste de criar uma copia do board Tasks dd/mm/2020 e utilizar a visualização de calendário (imagem à baixo). Para as minhas atividades ficarem certinhas no calendário, o Notion lê o atributo **data e hora** da minha atividade, por isso é importante sempre informar esse campo na criação da atividade.
+Como o Notion oferece também a visualização de calendário, eu acabei deixando um pouco de lado o Google Calendário. E essa é a próxima fase do meu planejamento semanal, que consiste de criar uma copia do quadro Tasks dd/mm/2020 e utilizar a visualização de calendário (imagem à baixo). Para as minhas atividades ficarem certinhas no calendário, o Notion lê o atributo **data e hora** da minha atividade, por isso é importante sempre informar esse campo na criação da atividade.
 
-<img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_calendar.png" alt="planejamento semanal visualização do board como calendario" width="700"/>
+<img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/week_plan_calendar.png" alt="planejamento semanal visualização do quadro como calendario" width="700"/>
 
 #### No meu dia a dia
 
