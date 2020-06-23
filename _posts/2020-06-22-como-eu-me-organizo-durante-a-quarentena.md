@@ -41,7 +41,6 @@ O [Notion](http://notion.so) é uma ferramenta com **múltiplos propósitos** de
 
 <img class="img-fluid" src="https://miro.medium.com/max/5694/1*Cs28Szju8wDf499NUeTEuA.jpeg" alt="notion pagina princial" width="700"/>
 
-
 No site deles você encontrará exemplos de uso para essas principais aplicações. E se você achar que ainda não entendeu muito bem para que serve o Notion, eles possuem uma galeria com templates que eles e a comunidade de usuários fizeram [(link)](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d).
 
 Minha história com o Notion não é muito antiga, eu tentei utilizar ele a primeira vez no começo de 2019. No começo quando o conheci fiquei muito animada com tudo que é oferecido, mas ao mesmo tempo frustrada, porque eu não sabia como criar páginas que fossem realmente úteis para mim e acabei não conseguindo utilizar o Notion.
@@ -68,7 +67,7 @@ O aplicativo para celular também é muito prático. Ele não tem todos os gráf
 
 O Google Calendário é mais uma das ferramentas que o Google fornece, e imagino que seja uma das mais utilizadas junto com o Gmail.
 
-<img src="https://upload.wikimedia.org/wikipedia/en/7/79/Google_Calendar_screenshot.png" alt="Google Calendar exemplo" width="500"/>
+<img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/en/7/79/Google_Calendar_screenshot.png" alt="Google Calendar exemplo" width="500"/>
 
 Eu utilizo o Google Agenda porque o meu e-mail é do Google. Mas você pode usar qualquer aplicativo de calendário, ou usar nenhum específico, como você verá a seguir.
 
@@ -76,9 +75,9 @@ Eu utilizo o Google Agenda porque o meu e-mail é do Google. Mas você pode usar
 
 Como estamos vivendo em um mundo muito incerto, não irei falar de planejamento quaternário e anual. Vamos nos reter a algo mais palpável, se mais na frente você quiser tente fazer um planejamento anual e quaternário. Por enquanto vamos buscar **nós sentir bem e principalmente, sentir que estamos progredindo na nossa vida**.
 
-A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no **[artigo do Nate Liason](https://www.nateliason.com/blog/notion-goals-productivity)**, recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
+A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no [**artigo do Nate Liason**](https://www.nateliason.com/blog/notion-goals-productivity), recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
 
-_O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse _[link_](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e)_. Ele está em inglês, mas a tradução não será difícil, caso você queira._
+_O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse_ [_link__](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e). Ele está em inglês, mas a tradução não será difícil, caso você queira.
 
 #### No planejamento mensal
 
@@ -86,9 +85,7 @@ Se você já usou planner alguma vez, você lembrará daquelas páginas no come�
 
 Com isso em mente eu construo os meus objetivos mensais, dividindo em três grandes áreas: **profissional, pessoal** e **físico**. Para definir esses objetivos eu imagino que será necessário mais de uma semana ou uma grande quantidade de horas de esforço. Eu tento não me limitar nesse momento, mas acabo **nunca passando de cinco tópicos** por grande área.
 
-
 <img class="img-fluid" src="/images/quais-ferramentas-me-ajudam-a-organizar-minha-rotina-na-quarentena/month_plan_goals.png" alt="planejamento mensal" width="700"/>
-
 
 Após criar minha sacola de objetivos, reflito novamente sobre eles e escolho **cinco que serão minhas prioridades**. Agora meu foco é concluir esses cinco objetivos durante as próximas semanas.
 
