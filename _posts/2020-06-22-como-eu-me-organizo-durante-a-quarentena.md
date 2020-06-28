@@ -75,7 +75,7 @@ Eu utilizo o Google Agenda porque o meu e-mail é do Google. Mas você pode usar
 
 Como estamos vivendo em um mundo muito incerto, não irei falar de planejamento quaternário e anual. Vamos nos reter a algo mais palpável, se mais na frente você quiser tente fazer um planejamento anual e quaternário. Por enquanto vamos buscar **nós sentir bem e principalmente, sentir que estamos progredindo na nossa vida**.
 
-A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no [**artigo do Nate Liason**](https://www.nateliason.com/blog/notion-goals-productivity), recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
+A seguir descreverei com mais detalhes o meu planejamento de vida. Você notará que eu uso principalmente o Notion e o Toggl, outro ponto, é que a estrutura foi baseada no [**artigo do Nat Eliason**](https://www.nateliason.com/blog/notion-goals-productivity), recomendo a leitura (é em inglês) me ajudou muito a repensar meu modo de planejamento.
 
 _O template Notion que estou usando é baseado no do artigo, estou disponibilizando essa nova versão nesse_ [_link__](https://www.notion.so/thingsnaanadr/Monthly-Plan-for-7ccafceb684f4418b4d9e95395b46d5e). Ele está em inglês, mas a tradução não será difícil, caso você queira.
 
@@ -133,7 +133,7 @@ Ok, eu planejei minha semana consegui fazer tudo - ou quase tudo - planejado. Ac
 
 Eu poderia fazer isso e era o que eu fazia quando usava planner. Mas acabei percebendo, depois de quase um ano fazendo isso, que parecia que eu estava só vivendo cada semana e no fim não estava indo para lugar nenhum.
 
-No fundo eu sabia que precisava fazer alguma coisa para que esse sentimento fosse embora, mas eu não sabia o que exatamente. E foi aí que lendo o blog do [Nate Liason](https://www.nateliason.com/blog/notion-goals-productivity) percebi o que precisava fazer! Eu estava precisando **revisitar minha semana e me questionar sobre o que eu fiz e iria fazer**.
+No fundo eu sabia que precisava fazer alguma coisa para que esse sentimento fosse embora, mas eu não sabia o que exatamente. E foi aí que lendo o blog do [Nat Eliason](https://www.nateliason.com/blog/notion-goals-productivity) percebi o que precisava fazer! Eu estava precisando **revisitar minha semana e me questionar sobre o que eu fiz e iria fazer**.
 
 #### Revisão da minha semana
 
