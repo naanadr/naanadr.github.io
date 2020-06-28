@@ -45,6 +45,9 @@ analytics: UA-162706311-1
 
 # Include list
 include: [assets/docs/CV.pdf]
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Ruby Gems
 plugins:
