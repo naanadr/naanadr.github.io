@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: 'Tag: Deep-Learning'
-tag: Deep-Learning
+title: 'Tag: deep-learning'
+tag: deep-learning
 
 ---
