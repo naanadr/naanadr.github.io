@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: 'Tag: Transfer-Learning'
-tag: Transfer-Learning
+title: 'Tag: transfer-learning'
+tag: transfer-earning
 
 ---
