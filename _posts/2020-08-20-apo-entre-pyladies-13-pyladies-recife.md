@@ -7,7 +7,8 @@ tags:
 - palestra
 type: talk
 layout: post
-title: 'Ṕapo entre PyLadies #13 - PyLadies Recife'
+title: 'Papo entre PyLadies #13 - PyLadies Recife - Ambiente virtual, é de comer ou
+  de beber?'
 description: O Papo entre PyLadies surgiu com o propósito de apresentar um pouco sobre
   os capítulos ativos no Brasil. O 13ª papo foi com o PyLadies Recife, e eu tive a
   honra de ser uma das representantes no dia, após o papo, apresentei a palestra "Ambiente
