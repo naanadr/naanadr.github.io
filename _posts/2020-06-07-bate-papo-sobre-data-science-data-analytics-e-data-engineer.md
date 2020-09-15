@@ -1,5 +1,5 @@
 ---
-date: 2020-06-07 00:24:05 +0000
+date: 2020-06-07T00:24:05.000+00:00
 tags:
 - palestra
 - data-engineer
@@ -16,4 +16,4 @@ preview: ''
 ---
 ### Bate Papo no YouTube
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/OiE7CVi1QCA](https://www.youtube.com/embed/OiE7CVi1QCA "https://www.youtube.com/embed/OiE7CVi1QCA")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiE7CVi1QCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
