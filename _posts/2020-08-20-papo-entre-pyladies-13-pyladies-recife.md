@@ -5,6 +5,7 @@ tags:
 - python
 - ambiente-virtual
 - palestra
+- comunidade
 type: talk
 layout: post
 title: 'Papo entre PyLadies #13 - PyLadies Recife - Ambiente virtual, é de comer ou
