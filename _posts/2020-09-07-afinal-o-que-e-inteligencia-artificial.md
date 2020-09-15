@@ -16,9 +16,9 @@ preview: ''
 ---
 ### Página do evento
 
-[Part-1](https://anchor.fm/start-coding/episodes/Parte-01---Afinal--o-que--Inteligncia-Artificial-ej8nk4)
+Episódio [part-1](https://anchor.fm/start-coding/episodes/Parte-01---Afinal--o-que--Inteligncia-Artificial-ej8nk4)
 
-[Part-2](https://anchor.fm/start-coding/episodes/Parte-02---Afinal--o-que--Inteligncia-Artificial-ejk6de)
+Episódio [part-2](https://anchor.fm/start-coding/episodes/Parte-02---Afinal--o-que--Inteligncia-Artificial-ejk6de)
 
 ### Resumo
 
