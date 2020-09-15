@@ -4,8 +4,8 @@ tags:
 - cromossomos
 - palestra
 - IA
-- Deep-Learning
-- Transfer-Learning
+- transfer-learning
+- deep-learning
 type: talk
 layout: post
 title: Transfer Learning para Detecção de Cromossomos
