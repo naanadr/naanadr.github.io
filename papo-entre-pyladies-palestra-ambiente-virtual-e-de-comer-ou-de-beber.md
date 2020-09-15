@@ -14,7 +14,6 @@ description: 'No Papo entre PyLadies #13, o capítulo entrevistado foi o Recife.
   de tentar explicar pra que serve e como usar um.'
 image: ''
 preview: ''
-published: false
 
 ---
 ### Página do evento
@@ -31,9 +30,5 @@ Nesta semana PyLadies Parnaíba e São Luís conversarão sobre o trabalho desen
 
 ### Apresentação
 
-
-
 <div class="canva-embed" data-height-ratio="0.8383" data-design-id="DAEEWeNaFfY/8FCGM0bATNA_kf02Pyv1YQ"></div>
 <script async src="https://sdk.canva.com/v1/embed.js"></script>
-
-<iframe src=”https://www.canva.com/design/DAEEWeNaFfY/8FCGM0bATNA_kf02Pyv1YQ/view”></iframe>
