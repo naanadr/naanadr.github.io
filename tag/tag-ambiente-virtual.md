@@ -1,7 +1,7 @@
 ---
 layout: tagpage
 title: 'Tag: ambiente-virtual'
-tag: visão-computacional
+tag: ambiente-virtual
 published: false
 
 ---
