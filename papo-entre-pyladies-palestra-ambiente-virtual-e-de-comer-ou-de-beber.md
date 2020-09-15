@@ -20,15 +20,20 @@ published: false
 ### Página do evento
 
 [Entrevista + Palestra](https://www.youtube.com/watch?v=ngGG9RZcNjo)
+
 [Palestra](https://youtu.be/ngGG9RZcNjo?t=2136)
 
 ### Resumo
 
 Papo entre  PyLadies é um projeto desenvolvido pelo PyLadies Brasil para promover a troca de conhecimento entre os capítulos do PyLadies no Brasil. São entrevistas semanais envolvendo dois capítulos entrevistando e um entrevistado. A primeira parte é uma entrevista sobre histórias e curiosidades do entrevistado, a segunda é uma palestra sobre um tema que o capítulo entrevistado tem domínio.
 
-
 Nesta semana PyLadies Parnaíba e São Luís conversarão sobre o trabalho desenvolvido pelo PyLadies Recife, que em seguida palestrará sobre "Ambiente Virtual. É de comer ou de beber?".
 
-
 ### Apresentação
-<iframe src="https://www.canva.com/design/DAEEWeNaFfY/qvYbVR7g5LWufZSCK28Qvw/view" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+<div class="canva-embed" data-height-ratio="0.8383" data-design-id="DAEEWeNaFfY/8FCGM0bATNA_kf02Pyv1YQ"></div>
+<script async src="https://sdk.canva.com/v1/embed.js"></script>
+
+<iframe src=”https://www.canva.com/design/DAEEWeNaFfY/8FCGM0bATNA_kf02Pyv1YQ/view”></iframe>
