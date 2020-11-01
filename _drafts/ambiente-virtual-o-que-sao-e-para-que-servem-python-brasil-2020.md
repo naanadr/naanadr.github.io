@@ -1,35 +1,47 @@
 ---
-date: 2020-08-20T22:45:51.000+00:00
+date: 2020-09-01 22:45:51 +0000
 tags:
 - pyladies
 - python
 - ambiente-virtual
 - palestra
 - comunidade
+- python-brasil
 type: talk
 layout: post
 title: Ambiente virtual, o que são e para que servem? - Python Brasil 2020
-description: O Papo entre PyLadies surgiu com o propósito de apresentar um pouco sobre
-  os capítulos ativos no Brasil. O 13ª papo foi com o PyLadies Recife, e eu tive a
-  honra de ser uma das representantes no dia, após o papo, apresentei a palestra "Ambiente
-  Virtual, é de comer ou de beber?"
+description: Você já teve problema na hora de instalar pacotes ou executar um projeto
+  antigo? Se você já passou por momentos assim, sei como é, por isso vem comigo desbravar
+  os ambientes virtuais. E se tu ainda não passou, relaxe, você estará preparada depois
+  dessa palestra.
 image: ''
 preview: ''
 
 ---
 ### Página do evento
 
-[Entrevista + Palestra](https://www.youtube.com/watch?v=ngGG9RZcNjo)
+[Página Principal do evento](https://2020.pythonbrasil.org.br/)
 
-[Palestra](https://youtu.be/ngGG9RZcNjo?t=2136)
+[Programação](https://2020.pythonbrasil.org.br/grade/)
+
+[Palestra]()
 
 ### Resumo
 
-Papo entre  PyLadies é um projeto desenvolvido pelo PyLadies Brasil para promover a troca de conhecimento entre os capítulos do PyLadies no Brasil. São entrevistas semanais envolvendo dois capítulos entrevistando e um entrevistado. A primeira parte é uma entrevista sobre histórias e curiosidades do entrevistado, a segunda é uma palestra sobre um tema que o capítulo entrevistado tem domínio.
+Você já teve problema na hora de instalar pacotes ou executar um projeto antigo? Se você já passou por momentos assim, sei como é, por isso vem comigo desbravar os ambientes virtuais. E se tu ainda não passou, relaxe, você estará preparada depois dessa palestra.
 
-Nesta semana PyLadies Parnaíba e São Luís conversarão sobre o trabalho desenvolvido pelo PyLadies Recife, que em seguida palestrará sobre "Ambiente Virtual. É de comer ou de beber?".
 
 ### Apresentação
 
-<div class="canva-embed" data-height-ratio="0.8383" data-design-id="DAEEWeNaFfY/8FCGM0bATNA_kf02Pyv1YQ"></div>
+<div class="canva-embed" data-height-ratio="0.8383" data-design-id="DAEMNb5xVes/L-OXk9qeIrWHjNqhVwxIxg"></div>
 <script async src="https://sdk.canva.com/v1/embed.js"></script>
+
+### Material complementar
+
+* Criando ambientes virtuais com python nativo, [aqui](https://docs.python.org/pt-br/3/tutorial/venv.html)
+* Documentação do pyenv, com descrição de como instalar e utilizar, [aqui](https://github.com/pyenv/pyenv) e [aqui](https://realpython.com/intro-to-pyenv/)
+* Documentação do virtualenvwrapper, com descrição de como instalar e utilizar, [aqui](https://virtualenvwrapper.readthedocs.io/en/latest/)
+
+Te recomendo utilizar o **pyenv** para baixar versões do python, após ter baixado as versões que você deseja utilizar, informe qual você utilizará localmente no seu projeto (para saber mais, ver tutorial do [real python](https://realpython.com/intro-to-pyenv/)). Após isso você poderá criar diversos ambientes virtuais utilizando a versão do python configurada. 
+
+Para criação do ambiente virtual, te recomendo utilizar o **virtualenvwrapper**, porque o projeto está ativo e recebendo atualizações constantemente, enquanto que o [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) não recebe atualização desde fevereiro de 2019 (no momento em que eu escrevo esse post).
