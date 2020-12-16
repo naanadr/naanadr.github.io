@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<empresa>
+  <departamentos>
+    <departamento nome="vendas">
+      <responsavel>Rafaela Salpicão</responsavel>
+    </departamento>
+    <departamento nome="financeiro">
+      <responsavel>Ernani Uva Passa</responsavel>
+    </departamento>
+    <departamento nome="recursos_humanos">
+      <responsavel></responsavel>
+    </departamento>
+  </departamentos>
+  <funcionarios>
+    <funcionario situacao="ativo">
+      <nome>Rafaela Salpicão</nome>
+      <departamento>Vendas</departamento>
+      <cargo>Chefe do departamento de vendas</cargo>
+      <data_nascimento>20/05/1987</data_nascimento>
+      <endereco>
+        <numero>10</numero>
+        <logradouro>Rua das uvas paças</logradouro>
+        <complemento></complemento>
+        <referencia>Casa de primeiro andar.</referencia>
+        <bairro>Natalino</bairro>
+        <cidade>Natal</cidade>
+        <estado>Rio Grande do Norte</estado>
+      </endereco>
+    </funcionario>
+    <funcionario situacao="desativado">
+      <nome>Maria do Tender</nome>
+      <cargo>Psicóloga</cargo>
+      <data_nascimento>20/10/1975</data_nascimento>
+      <endereco>
+        <numero>333</numero>
+        <logradouro>Rua das nevadas</logradouro>
+        <complemento>Bloco A</complemento>
+        <referencia>Em frente ao Polo Norte Restaurante</referencia>
+        <bairro>Caixeiro</bairro>
+        <cidade>Natal</cidade>
+        <estado>Rio Grande do Norte</estado>
+      </endereco>
+    </funcionario>
+    <funcionario situacao="ativado">
+      <nome>Ernani Uva Passa</nome>
+      <cargo>Contador</cargo>
+      <data_nascimento>30/11/1977</data_nascimento>
+      <endereco>
+        <numero>50</numero>
+        <logradouro>Avenida Presidente Natalino</logradouro>
+        <complemento>AP 410</complemento>
+        <referencia></referencia>
+        <bairro>Centro</bairro>
+        <cidade>Natal</cidade>
+        <estado>Rio Grande do Norte</estado>
+      </endereco>
+    </funcionario>
+  </funcionarios>
+</empresa>
